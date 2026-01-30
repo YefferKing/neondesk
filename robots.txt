@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yefferking.github.io/neondesk-landing/sitemap.xml
